@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>markdown on Dawn&#39;s website</title>
+    <link>/tags/markdown/</link>
+    <description>Recent content in markdown on Dawn&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vacation is approaching</title>
+      <link>/2019/05/07/vacation-is-approaching/</link>
+      <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/05/07/vacation-is-approaching/</guid>
+      <description>The vacation is approaching Mayday holiday is coming we hang out for fun with friends. On this day, I went to Chengdu Huanlegu with Irene,my best friend,and have so much fun here.But she always chatted with her bf, so that I was more than happy.</description>
+    </item>
+    
+    <item>
+      <title>Vacation is at an end</title>
+      <link>/2019/05/07/vacation-is-at-an-end/</link>
+      <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/05/07/vacation-is-at-an-end/</guid>
+      <description>SO SO SAD I still remember the happyniess in theamusement park . I am fond to drive bumper carswhich can bring me excitement and pleasure.</description>
+    </item>
+    
+  </channel>
+</rss>
